@@ -1,1 +1,1 @@
-# notionwrapper-deno
+# notion-deno-wrapper
